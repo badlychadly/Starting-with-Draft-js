@@ -1,4 +1,4 @@
-# Starting-with-Draft-js
+# Starting with-Draft-js
 
 For the past Couple of months I have been testing out solutions for client side text editing. I have tried a few different wysiwyg frameworks for react but I have finally found one that I can really appreciate called Draft-js. Draft-js is what Facebook uses when you write a comment or a status. It is how they are able to do things like tagging friends when you are typing out their name. In this article I want to show you how to get Draft-js up and running in your React application. Check out the docs (here)[https://draftjs.org/docs/getting-started].
 
